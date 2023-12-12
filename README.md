@@ -1,4 +1,5 @@
-https://github.com/MahmoudAshraf12/modern_bank_ui/assets/99623614/100d881a-78ab-4df3-94b8-1b31e2dd9b3a
+![Untitled design (1)](https://github.com/MahmoudAshraf12/modern_bank_ui/assets/99623614/100d881a-78ab-4df3-94b8-1b31e2dd9b3a)
+
 
 # React + Vite
 
